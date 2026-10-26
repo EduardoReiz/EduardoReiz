@@ -1,12 +1,12 @@
-# Olá, eu sou o Eduardo
+# Eduardo Sousa dos Reis
 
-Estudante do 4º período de Engenharia de Software na UniEVANGÉLICA, em Anápolis - GO.
-Gosto de pegar uma ideia e levar até o produto funcionando: requisitos, interface, testes e implantação.
-Hoje busco estágio em desenvolvimento de software.
+Engenharia de Software. Desenvolvo aplicações web, produtos com IA e ferramentas de segurança defensiva,
+do back-end à interface, com testes automatizados e implantação.
+Aberto a oportunidades de estágio em desenvolvimento de software.
 
 [LinkedIn](https://www.linkedin.com/in/eduardo-sousa-41886b350)
 
-## O que venho construindo
+## Projetos
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
