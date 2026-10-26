@@ -1,3 +1,5 @@
+![Eduardo Sousa dos Reis](banner.png)
+
 # Eduardo Sousa dos Reis
 
 Engenharia de Software. Desenvolvo aplicações web, produtos com IA e ferramentas de segurança defensiva,
